@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "FYSNodeJsSDK", "FYSNodeJsSDK.njsproj", "{2EF984FA-2DAB-4565-B35F-9AE492CA076A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EF984FA-2DAB-4565-B35F-9AE492CA076A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF984FA-2DAB-4565-B35F-9AE492CA076A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF984FA-2DAB-4565-B35F-9AE492CA076A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF984FA-2DAB-4565-B35F-9AE492CA076A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F368AFAF-6AF5-4163-A042-B82678A0FD5C}
+	EndGlobalSection
+EndGlobal

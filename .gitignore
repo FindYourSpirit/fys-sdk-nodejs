@@ -1,0 +1,37 @@
+# Directories
+node_modules/
+dist/
+coverage/
+
+# Logs
+logs
+*.log
+
+# Environment files
+.env
+
+# Build files
+build/
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.vs/
+
+# Testing and coverage artifacts
+.nyc_output/
+.jest/
+
+# macOS files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# Custom ignore rules (add or modify as needed)
